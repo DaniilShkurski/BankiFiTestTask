@@ -23,3 +23,4 @@ For using Google search, there were a couple of possible approaches:
 - configurations of akka/akka-http with usage of application.conf file
 - creating OpenAPI documentation
 - extract google search response index into query parameter
+- number borders validation for prime numbers can be replaced by timeout (based on requirements)
